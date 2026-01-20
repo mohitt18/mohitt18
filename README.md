@@ -1,69 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mohit Vij</h1>
-<h3 align="center">Aspiring Technology Graduate | Java • Python • AI • Web Development</h3>
+<h1 align="center" style="color:#ffffff;">Mohit Vij</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitvij&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech student passionate about **Technology & Digital solutions**
-- 💻 Strong foundation in **Java, Python, and Web Development**
-- 🤖 Exploring **AI concepts, cloud fundamentals, and modern tools**
-- 🧠 Curious, self-driven learner with strong **problem-solving skills**
-- 🤝 Team player with good communication & project experience
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Project
-### 🎥 Live Streaming Web App
-**ReactJS | Tailwind CSS | ZEGOCLOUD**
-- Built a responsive live streaming platform with **real-time video/audio**
-- Implemented **live rooms, chat, and session management**
-- Focused on **performance optimization and modern UI/UX**
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitvij&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=750&lines=Aspiring+Technology+Graduate;Java+%7C+Python+%7C+AI+Enthusiast;Building+Modern+Digital+Solutions;Curious+Learner+%7C+Problem+Solver" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitvij&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-- Advanced **Java & DSA**
-- **AI tools & prompt engineering**
-- **Cloud fundamentals & scalable systems**
-
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:mvij4385@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-⭐ *“Always learning, always building.”*
+## 🧠 About Me
+I am a **B.Tech student and technology intern aspirant** with hands-on experience in **Java and Python programming**, real-time web applications, and exposure to **AI and emerging digital technologies**. I enjoy solving problems, building scalable systems, and continuously learning modern tools and frameworks.
+
+---
+
+## 🛠️ Tech Stack (Visual)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,react,tailwind,git,github&theme=dark" />
+</p>
+
+---
+
+## 📈 Skill Progress (Animated)
+
+### 💻 Programming
+![Java](https://progress-bar.dev/80/?title=Java&width=620&color=00E0FF)
+![Python](https://progress-bar.dev/70/?title=Python&width=620&color=FFD43B)
+
+### 🌐 Web & Real-Time
+![ReactJS](https://progress-bar.dev/75/?title=ReactJS&width=620&color=61DAFB)
+![Tailwind](https://progress-bar.dev/70/?title=Tailwind%20CSS&width=620&color=38BDF8)
+![ZEGOCLOUD](https://progress-bar.dev/65/?title=Real-Time%20Streaming&width=620&color=22C55E)
+
+### 🤖 Emerging Tech
+![AI](https://progress-bar.dev/60/?title=AI%20Fundamentals&width=620&color=9333EA)
+
+---
+
+## 🧩 Learning Roadmap
+
+```mermaid
+flowchart LR
+A[Problem Solving] --> B[Java & OOP]
+B --> C[Python & DSA]
+C --> D[ReactJS]
+D --> E[Real-Time Systems]
+E --> F[AI & Cloud Basics]
